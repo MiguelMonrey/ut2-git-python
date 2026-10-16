@@ -18,7 +18,9 @@
 
 | ej04\_adivina.py | while + break |
 
+| ej05\_menu.py | match-case |
 
+| ej06\_suma\_pares.py | for + continue |
 
 
 
