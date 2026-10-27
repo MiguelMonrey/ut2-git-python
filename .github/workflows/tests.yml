@@ -21,4 +21,4 @@ jobs:
           echo "4" | python3 ej01_par_impar.py
           echo "8.5" | python3 ej02_calificacion.py
           echo "5" | python3 ej03_tabla_multiplicar.py
-          echo "10" | python3 ej04_adivina.py
+          echo "10" | python3 ej06_suma_pares.py
