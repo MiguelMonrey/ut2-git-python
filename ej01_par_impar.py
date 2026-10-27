@@ -1,6 +1,6 @@
 num = 0
 # Author: Compañero
-#try:
+try:
     num = int(input("Introduce un número entero: "))
 except ValueError:
     print("El valor introducido no es un número")
